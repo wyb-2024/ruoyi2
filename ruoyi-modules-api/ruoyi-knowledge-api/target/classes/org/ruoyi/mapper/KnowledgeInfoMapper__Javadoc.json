@@ -1,0 +1,1 @@
+{"doc":" 知识库Mapper接口\n\n @author ageerle\n @date 2025-04-08\n","fields":[],"enumConstants":[],"methods":[{"name":"selectByKid","paramTypes":["java.lang.String"],"doc":" 根据kid查询知识库\n\n @param kid 知识库id\n @return KnowledgeInfo\n"}],"constructors":[]}

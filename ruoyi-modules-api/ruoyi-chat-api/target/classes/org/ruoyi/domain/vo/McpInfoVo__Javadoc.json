@@ -1,0 +1,1 @@
+{"doc":" MCP视图对象 mcp_info\n\n @author jiyi\n @date Sat Aug 09 16:50:58 CST 2025\n","fields":[{"name":"serverName","doc":" 服务器名称\n"},{"name":"transportType","doc":" 链接方式\n"},{"name":"command","doc":" Command\n"},{"name":"arguments","doc":" Args\n"},{"name":"env","doc":" Env\n"},{"name":"status","doc":" 是否启用\n"}],"enumConstants":[],"methods":[],"constructors":[]}

@@ -1,0 +1,1 @@
+{"doc":" 用户token使用详情业务对象 chat_usage_token\n\n @author ageerle\n @date 2025-04-08\n","fields":[{"name":"id","doc":" 主键\n"},{"name":"userId","doc":" 用户\n"},{"name":"token","doc":" 待结算token\n"},{"name":"modelName","doc":" 模型名称\n"},{"name":"totalToken","doc":" 累计使用token\n"}],"enumConstants":[],"methods":[],"constructors":[]}

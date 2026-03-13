@@ -1,0 +1,1 @@
+{"doc":" AI人类交互信息实体类\n\n @author QingYunAI\n","fields":[{"name":"id","doc":" 主键ID\n"},{"name":"name","doc":" 交互名称\n"},{"name":"content","doc":" 交互内容\n"},{"name":"createTime","doc":" 创建时间\n"},{"name":"updateTime","doc":" 更新时间\n"},{"name":"delFlag","doc":" 删除标志（0代表存在 2代表删除）\n"}],"enumConstants":[],"methods":[],"constructors":[]}

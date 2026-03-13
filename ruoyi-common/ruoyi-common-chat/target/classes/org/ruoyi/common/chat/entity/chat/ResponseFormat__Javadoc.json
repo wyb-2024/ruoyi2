@@ -1,0 +1,1 @@
+{"doc":" 指定模型必须输出的格式的对象。\n","fields":[{"name":"type","doc":" 默认：text\n\n @see Type\n"}],"enumConstants":[],"methods":[],"constructors":[]}

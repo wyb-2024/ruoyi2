@@ -1,0 +1,1 @@
+{"doc":" 通用 参数配置服务\n","fields":[],"enumConstants":[],"methods":[{"name":"getConfigValue","paramTypes":["java.lang.String","java.lang.String"],"doc":" 根据配置类型和配置key获取值\n\n @param category\n @param configKey\n @return\n"}],"constructors":[]}

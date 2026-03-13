@@ -1,0 +1,1 @@
+{"doc":" 向量库配置属性\n\n @author ageer\n","fields":[{"name":"type","doc":" 向量库类型\n"},{"name":"weaviate","doc":" Weaviate配置\n"},{"name":"milvus","doc":" Milvus配置\n"}],"enumConstants":[],"methods":[],"constructors":[]}

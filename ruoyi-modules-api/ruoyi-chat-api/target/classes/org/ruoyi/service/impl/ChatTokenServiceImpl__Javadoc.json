@@ -1,0 +1,1 @@
+{"doc":" 聊天消息Service业务层处理\n\n @author Lion Li\n @date 2023-11-26\n","fields":[],"enumConstants":[],"methods":[{"name":"resetToken","paramTypes":["java.lang.Long","java.lang.String"],"doc":" 清空用户token\n"},{"name":"editToken","paramTypes":["org.ruoyi.domain.ChatUsageToken"],"doc":" 增加用户token\n"}],"constructors":[]}

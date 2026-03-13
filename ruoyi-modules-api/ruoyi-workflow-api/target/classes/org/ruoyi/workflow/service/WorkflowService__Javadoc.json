@@ -1,0 +1,1 @@
+{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"getDetail","paramTypes":["java.lang.String"],"doc":" 获取当前用户可访问的工作流详情\n\n @param uuid 工作流唯一标识\n @return 工作流详情\n"},{"name":"getPublicDetail","paramTypes":["java.lang.String"],"doc":" 获取公开工作流详情\n\n @param uuid 工作流唯一标识\n @return 工作流详情\n"}],"constructors":[]}

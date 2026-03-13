@@ -1,0 +1,1 @@
+{"doc":" 向量库策略抽象基类\n 提供公共的方法实现，如embedding模型获取等\n\n @author Yzm\n","fields":[],"enumConstants":[],"methods":[{"name":"toObjectArray","paramTypes":["float[]"],"doc":" 将float数组转换为Float对象数组\n"},{"name":"getEmbeddingModel","paramTypes":["java.lang.String","java.lang.Integer"],"doc":" 获取向量模型\n"},{"name":"getVectorStoreType","paramTypes":[],"doc":" 获取向量库类型标识\n"}],"constructors":[]}

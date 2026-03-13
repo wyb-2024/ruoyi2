@@ -1,0 +1,1 @@
+{"doc":" 抽取的实体\n\n @author ruoyi\n @date 2025-09-30\n","fields":[{"name":"name","doc":" 实体名称\n"},{"name":"type","doc":" 实体类型\n"},{"name":"description","doc":" 实体描述\n"},{"name":"confidence","doc":" 置信度（0.0-1.0）\n"}],"enumConstants":[],"methods":[],"constructors":[]}

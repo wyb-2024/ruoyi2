@@ -1,0 +1,1 @@
+{"doc":" 会话管理对象 chat_session\n\n @author ageerle\n @date 2025-05-03\n","fields":[{"name":"id","doc":" 主键\n"},{"name":"userId","doc":" 用户id\n"},{"name":"sessionTitle","doc":" 会话标题\n"},{"name":"sessionContent","doc":" 会话内容\n"},{"name":"remark","doc":" 备注\n"},{"name":"conversationId","doc":" 会话id\n"}],"enumConstants":[],"methods":[],"constructors":[]}

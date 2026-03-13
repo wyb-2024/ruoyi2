@@ -1,0 +1,1 @@
+{"doc":" @author <a href=\"https://www.unfbx.com\">unfbx</a>\n @since 1.1.2\n 2023-11-09\n","fields":[{"name":"function","doc":" 需要调用的方法名称\n"},{"name":"type","doc":" 工具的类型。目前仅支持函数。\n\n @see Type\n"}],"enumConstants":[],"methods":[],"constructors":[]}

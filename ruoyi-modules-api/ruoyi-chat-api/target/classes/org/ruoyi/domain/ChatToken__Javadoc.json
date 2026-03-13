@@ -1,0 +1,1 @@
+{"doc":" 用户token使用记录\n\n @author Lion Li\n @date 2023-11-26\n","fields":[{"name":"id","doc":" 主键\n"},{"name":"UserId","doc":" 用户ID\n"},{"name":"token","doc":" 待结算token\n"},{"name":"modelName","doc":" 模型名称\n"}],"enumConstants":[],"methods":[],"constructors":[]}

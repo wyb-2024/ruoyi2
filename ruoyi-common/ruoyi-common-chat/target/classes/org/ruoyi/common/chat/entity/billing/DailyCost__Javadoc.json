@@ -1,0 +1,1 @@
+{"doc":" 金额消耗列表\n\n @author https:www.unfbx.com\n @since 2023-04-08\n","fields":[{"name":"timestamp","doc":" 时间戳\n"},{"name":"lineItems","doc":" 模型消耗金额详情\n"}],"enumConstants":[],"methods":[],"constructors":[]}

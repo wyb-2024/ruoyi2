@@ -1,0 +1,1 @@
+{"doc":"","fields":[{"name":"delta","doc":" 请求参数stream为true返回是delta\n"},{"name":"message","doc":" 请求参数stream为false返回是message\n"}],"enumConstants":[],"methods":[],"constructors":[]}

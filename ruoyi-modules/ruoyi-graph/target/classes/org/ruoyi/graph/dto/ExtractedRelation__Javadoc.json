@@ -1,0 +1,1 @@
+{"doc":" 抽取的关系\n\n @author ruoyi\n @date 2025-09-30\n","fields":[{"name":"sourceEntity","doc":" 源实体名称\n"},{"name":"targetEntity","doc":" 目标实体名称\n"},{"name":"description","doc":" 关系描述\n"},{"name":"strength","doc":" 关系强度（0-10）\n"},{"name":"confidence","doc":" 置信度（0.0-1.0）\n"}],"enumConstants":[],"methods":[],"constructors":[]}

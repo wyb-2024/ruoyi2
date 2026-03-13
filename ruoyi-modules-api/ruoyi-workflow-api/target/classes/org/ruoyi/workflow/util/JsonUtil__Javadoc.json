@@ -1,0 +1,1 @@
+{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"getParser","paramTypes":["java.lang.String"],"doc":" 创建JSON处理器的静态方法\n\n @param content JSON字符串\n @return\n"},{"name":"fromJson","paramTypes":["java.lang.String","java.lang.Class"],"doc":" JSON对象反序列化\n"}],"constructors":[]}

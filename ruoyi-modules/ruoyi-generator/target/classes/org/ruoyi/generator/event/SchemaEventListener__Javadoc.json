@@ -1,0 +1,1 @@
+{"doc":" 数据模型事件监听器\n\n @author ruoyi\n","fields":[],"enumConstants":[],"methods":[{"name":"handleSchemaAddedEvent","paramTypes":["org.ruoyi.generator.event.SchemaAddedEvent"],"doc":" 监听数据模型添加事件，自动插入字段数据\n"},{"name":"handleSchemaDeletedEvent","paramTypes":["org.ruoyi.generator.event.SchemaDeletedEvent"],"doc":" 监听数据模型添加事件，自动插入字段数据\n"}],"constructors":[]}

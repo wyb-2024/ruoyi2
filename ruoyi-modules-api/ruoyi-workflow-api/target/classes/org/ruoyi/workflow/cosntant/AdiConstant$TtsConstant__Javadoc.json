@@ -1,0 +1,1 @@
+{"doc":"","fields":[{"name":"SYNTHESIZER_CLIENT","doc":" 语音合成器位置-客户端\n"},{"name":"SYNTHESIZER_SERVER","doc":" 语音合成器位置-服务端\n"},{"name":"DASHSCOPE_DEFAULT_VOICE","doc":" 通义默认语音音色-龙应严(义正严辞女声)\n"}],"enumConstants":[],"methods":[],"constructors":[]}

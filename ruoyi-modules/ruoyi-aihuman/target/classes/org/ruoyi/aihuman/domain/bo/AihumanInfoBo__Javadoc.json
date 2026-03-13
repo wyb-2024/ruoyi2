@@ -1,0 +1,1 @@
+{"doc":" 数字人信息管理业务对象 aihuman_info\n\n @author ageerle\n @date Fri Sep 26 20:03:06 GMT+08:00 2025\n","fields":[{"name":"name","doc":" 交互名称\n"},{"name":"content","doc":" 交互内容\n"},{"name":"createTime","doc":" 创建时间\n"},{"name":"updateTime","doc":" 更新时间\n"},{"name":"delFlag","doc":" 删除标志（0代表存在 2代表删除）\n"}],"enumConstants":[],"methods":[],"constructors":[]}

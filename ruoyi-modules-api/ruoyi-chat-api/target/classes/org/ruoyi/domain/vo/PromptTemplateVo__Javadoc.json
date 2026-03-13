@@ -1,0 +1,1 @@
+{"doc":" 提示词模板视图对象 prompt_template\n\n @author evo\n @date 2025-06-12\n","fields":[{"name":"id","doc":" 主键\n"},{"name":"templateName","doc":" 提示词模板名称\n"},{"name":"templateContent","doc":" 提示词模板内容\n"},{"name":"category","doc":" 提示词分类，knowledge 知识库类型，chat 对话类型，draw绘画类型 ...\n"},{"name":"remark","doc":" 备注\n"}],"enumConstants":[],"methods":[],"constructors":[]}

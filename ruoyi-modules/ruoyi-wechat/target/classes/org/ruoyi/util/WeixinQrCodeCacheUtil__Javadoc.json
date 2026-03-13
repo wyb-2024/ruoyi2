@@ -1,0 +1,1 @@
+{"doc":" 微信二维码缓存工具类\n\n @author https://www.wdbyte.com\n","fields":[],"enumConstants":[],"methods":[{"name":"put","paramTypes":["java.lang.String","java.lang.String"],"doc":" 增加一个 Ticket\n 首次 put：value 为 \"\"\n 再次 put: value 有 openId，若openId已经存在，则已被扫码\n\n @param key\n @param value\n"}],"constructors":[]}

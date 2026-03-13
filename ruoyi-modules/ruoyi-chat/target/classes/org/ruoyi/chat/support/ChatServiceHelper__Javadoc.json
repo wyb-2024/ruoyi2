@@ -1,0 +1,1 @@
+{"doc":" 抽取各聊天实现类的通用逻辑：\n - 创建带开关的 SSE 监听器\n - 统一的流错误处理（根据是否在重试场景决定通知或直接结束）\n - 统一的完成处理（清理回调并 complete）\n","fields":[],"enumConstants":[],"methods":[],"constructors":[]}

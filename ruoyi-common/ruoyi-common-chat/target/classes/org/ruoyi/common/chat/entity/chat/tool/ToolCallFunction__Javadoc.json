@@ -1,0 +1,1 @@
+{"doc":" ToolCall 的 Function参数\n The function that the model called.\n\n @author https:www.unfbx.com\n @since 1.1.2\n 2023-11-09\n","fields":[{"name":"name","doc":" 方法名\n"},{"name":"arguments","doc":" 方法参数\n"}],"enumConstants":[],"methods":[],"constructors":[]}

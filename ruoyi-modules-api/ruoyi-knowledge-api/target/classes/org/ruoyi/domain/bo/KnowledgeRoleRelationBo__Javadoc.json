@@ -1,0 +1,1 @@
+{"doc":" 知识库角色与知识库关联业务对象 knowledge_role_relation\n\n @author ageerle\n @date 2025-07-19\n","fields":[{"name":"id","doc":" id\n"},{"name":"remark","doc":" 备注\n"},{"name":"knowledgeRoleId","doc":" 知识库角色id\n"},{"name":"knowledgeId","doc":" 知识库id\n"}],"enumConstants":[],"methods":[],"constructors":[]}

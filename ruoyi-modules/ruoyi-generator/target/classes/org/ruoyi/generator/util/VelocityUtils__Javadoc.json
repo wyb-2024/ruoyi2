@@ -1,0 +1,1 @@
+{"doc":" 模板处理工具类\n\n @author ruoyi\n","fields":[],"enumConstants":[],"methods":[{"name":"getTemplateList","paramTypes":[],"doc":" 获取模板信息\n\n @return 模板列表\n"}],"constructors":[]}

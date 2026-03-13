@@ -1,0 +1,1 @@
+{"doc":" 构建任务状态枚举\n\n @author ruoyi\n @date 2025-09-30\n","fields":[],"enumConstants":[{"name":"PENDING","doc":" 待执行\n"},{"name":"RUNNING","doc":" 执行中\n"},{"name":"SUCCESS","doc":" 成功\n"},{"name":"FAILED","doc":" 失败\n"}],"methods":[{"name":"getByCode","paramTypes":["java.lang.Integer"],"doc":" 根据code获取枚举\n"}],"constructors":[]}

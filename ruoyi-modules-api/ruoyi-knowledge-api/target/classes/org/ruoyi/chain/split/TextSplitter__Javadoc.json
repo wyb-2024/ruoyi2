@@ -1,0 +1,1 @@
+{"doc":" 文本切分\n","fields":[],"enumConstants":[],"methods":[{"name":"split","paramTypes":["java.lang.String","java.lang.String"],"doc":" 文本切分\n\n @param content 文本内容\n @param kid     知识库id\n @return 切分后的文本列表\n"}],"constructors":[]}

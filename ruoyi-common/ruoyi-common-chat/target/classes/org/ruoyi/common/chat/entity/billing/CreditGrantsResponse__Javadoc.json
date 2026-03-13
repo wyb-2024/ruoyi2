@@ -1,0 +1,1 @@
+{"doc":" 余额查询接口返回值\n\n @author https:www.unfbx.com\n @since 2023-03-18\n","fields":[{"name":"totalGranted","doc":" 总金额：美元\n"},{"name":"totalUsed","doc":" 总使用金额：美元\n"},{"name":"totalAvailable","doc":" 总剩余金额：美元\n"},{"name":"grants","doc":" 余额明细\n"}],"enumConstants":[],"methods":[],"constructors":[]}

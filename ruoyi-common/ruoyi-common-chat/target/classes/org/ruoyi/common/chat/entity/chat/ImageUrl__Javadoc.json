@@ -1,0 +1,1 @@
+{"doc":" @author https://www.unfbx.com\n 2023-11-10\n","fields":[{"name":"url","doc":" 图片地址，支持base64. eg: data:image/jpeg;base64,{base64_image}   <p\\>\n https://platform.openai.com/docs/guides/vision\n"}],"enumConstants":[],"methods":[],"constructors":[]}

@@ -1,0 +1,1 @@
+{"doc":"","fields":[{"name":"confidenceThreshold","doc":" 置信度阈值（低于此值的实体将被过滤）\n"},{"name":"maxEntitiesPerDoc","doc":" 最大实体数量（每个文档）\n"},{"name":"maxRelationsPerDoc","doc":" 最大关系数量（每个文档）\n"},{"name":"chunkSize","doc":" 文本分片大小（用于长文档）\n"},{"name":"chunkOverlap","doc":" 分片重叠大小\n"}],"enumConstants":[],"methods":[],"constructors":[]}

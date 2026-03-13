@@ -1,0 +1,1 @@
+{"doc":" 【节点】LLM生成回答 <br/>\n 节点内容固定格式：LLMAnswerNodeConfig\n","fields":[],"enumConstants":[],"methods":[{"name":"onProcess","paramTypes":[],"doc":" nodeConfig格式：<br/>\n {\"prompt\": \"将以下内容翻译成英文：{input}\",\"model_platform\":\"deepseek\",\"model_name\":\"deepseek-chat\"}<br/>\n\n @return LLM的返回内容\n"}],"constructors":[]}

@@ -1,0 +1,1 @@
+{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"invokeTool","paramTypes":["java.lang.String","java.lang.Object"],"doc":" 调用 MCP 工具（Studio 模式）\n"},{"name":"handleMcpResponse","paramTypes":["java.lang.String","java.util.Map"],"doc":" 处理 MCP 服务器的响应消息\n"}],"constructors":[]}

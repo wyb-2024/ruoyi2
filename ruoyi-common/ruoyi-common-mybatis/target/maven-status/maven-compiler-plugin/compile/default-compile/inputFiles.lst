@@ -1,0 +1,17 @@
+D:\ruoyi-ai\ruoyi-common\ruoyi-common-mybatis\src\main\java\org\ruoyi\helper\DataPermissionHelper.java
+D:\ruoyi-ai\ruoyi-common\ruoyi-common-mybatis\src\main\java\org\ruoyi\interceptor\PlusDataPermissionInterceptor.java
+D:\ruoyi-ai\ruoyi-common\ruoyi-common-mybatis\src\main\java\org\ruoyi\config\MybatisPlusConfig.java
+D:\ruoyi-ai\ruoyi-common\ruoyi-common-mybatis\src\main\java\org\ruoyi\handler\MybatisExceptionHandler.java
+D:\ruoyi-ai\ruoyi-common\ruoyi-common-mybatis\src\main\java\org\ruoyi\handler\PlusDataPermissionHandler.java
+D:\ruoyi-ai\ruoyi-common\ruoyi-common-mybatis\src\main\java\org\ruoyi\enums\DataScopeType.java
+D:\ruoyi-ai\ruoyi-common\ruoyi-common-mybatis\src\main\java\org\ruoyi\helper\DataBaseHelper.java
+D:\ruoyi-ai\ruoyi-common\ruoyi-common-mybatis\src\main\java\org\ruoyi\enums\DataBaseType.java
+D:\ruoyi-ai\ruoyi-common\ruoyi-common-mybatis\src\main\java\org\ruoyi\handler\PlusPostInitTableInfoHandler.java
+D:\ruoyi-ai\ruoyi-common\ruoyi-common-mybatis\src\main\java\org\ruoyi\core\page\PageQuery.java
+D:\ruoyi-ai\ruoyi-common\ruoyi-common-mybatis\src\main\java\org\ruoyi\handler\InjectionMetaObjectHandler.java
+D:\ruoyi-ai\ruoyi-common\ruoyi-common-mybatis\src\main\java\org\ruoyi\aspect\DataPermissionAspect.java
+D:\ruoyi-ai\ruoyi-common\ruoyi-common-mybatis\src\main\java\org\ruoyi\core\domain\BaseEntity.java
+D:\ruoyi-ai\ruoyi-common\ruoyi-common-mybatis\src\main\java\org\ruoyi\core\page\TableDataInfo.java
+D:\ruoyi-ai\ruoyi-common\ruoyi-common-mybatis\src\main\java\org\ruoyi\annotation\DataPermission.java
+D:\ruoyi-ai\ruoyi-common\ruoyi-common-mybatis\src\main\java\org\ruoyi\annotation\DataColumn.java
+D:\ruoyi-ai\ruoyi-common\ruoyi-common-mybatis\src\main\java\org\ruoyi\core\mapper\BaseMapperPlus.java

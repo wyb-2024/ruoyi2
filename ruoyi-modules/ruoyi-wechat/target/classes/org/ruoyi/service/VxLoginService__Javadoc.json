@@ -1,0 +1,1 @@
+{"doc":" 微信公众号登录\n\n @author ageerle@163.com\n date 2025/4/30\n","fields":[],"enumConstants":[],"methods":[{"name":"recordLogininfor","paramTypes":["java.lang.String","java.lang.String","java.lang.String","java.lang.String"],"doc":" 记录登录信息\n\n @param tenantId 租户ID\n @param username 用户名\n @param status   状态\n @param message  消息内容\n"}],"constructors":[]}

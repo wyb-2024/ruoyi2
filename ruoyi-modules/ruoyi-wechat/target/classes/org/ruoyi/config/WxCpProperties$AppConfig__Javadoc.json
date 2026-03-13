@@ -1,0 +1,1 @@
+{"doc":"","fields":[{"name":"agentId","doc":" 设置企业微信应用的AgentId\n"},{"name":"secret","doc":" 设置企业微信应用的Secret\n"},{"name":"token","doc":" 设置企业微信应用的token\n"},{"name":"aesKey","doc":" 设置企业微信应用的EncodingAESKey\n"}],"enumConstants":[],"methods":[],"constructors":[]}

@@ -1,0 +1,74 @@
+{
+  "groups": [
+    {
+      "name": "pdf",
+      "type": "org.ruoyi.config.properties.PdfProperties",
+      "sourceType": "org.ruoyi.config.properties.PdfProperties"
+    },
+    {
+      "name": "pdf.extract",
+      "type": "org.ruoyi.config.properties.PdfProperties$ExtractConfig",
+      "sourceType": "org.ruoyi.config.properties.PdfProperties",
+      "sourceMethod": "getExtract()"
+    },
+    {
+      "name": "pdf.extract.ai-api",
+      "type": "org.ruoyi.config.properties.PdfProperties$ExtractConfig$AiApiConfig",
+      "sourceType": "org.ruoyi.config.properties.PdfProperties$ExtractConfig",
+      "sourceMethod": "getAiApi()"
+    },
+    {
+      "name": "pdf.extract.service",
+      "type": "org.ruoyi.config.properties.PdfProperties$ExtractConfig$ServiceConfig",
+      "sourceType": "org.ruoyi.config.properties.PdfProperties$ExtractConfig",
+      "sourceMethod": "getService()"
+    },
+    {
+      "name": "pdf.transition",
+      "type": "org.ruoyi.config.properties.PdfProperties$TransitionConfig",
+      "sourceType": "org.ruoyi.config.properties.PdfProperties",
+      "sourceMethod": "getTransition()"
+    }
+  ],
+  "properties": [
+    {
+      "name": "pdf.extract.ai-api.key",
+      "type": "java.lang.String",
+      "description": "API 密钥",
+      "sourceType": "org.ruoyi.config.properties.PdfProperties$ExtractConfig$AiApiConfig"
+    },
+    {
+      "name": "pdf.extract.ai-api.url",
+      "type": "java.lang.String",
+      "description": "AI API 地址 URL",
+      "sourceType": "org.ruoyi.config.properties.PdfProperties$ExtractConfig$AiApiConfig"
+    },
+    {
+      "name": "pdf.extract.service.url",
+      "type": "java.lang.String",
+      "description": "服务地址 URL",
+      "sourceType": "org.ruoyi.config.properties.PdfProperties$ExtractConfig$ServiceConfig"
+    },
+    {
+      "name": "pdf.transition.conda-env-path",
+      "type": "java.lang.String",
+      "description": "MinerU Conda 环境路径",
+      "sourceType": "org.ruoyi.config.properties.PdfProperties$TransitionConfig"
+    },
+    {
+      "name": "pdf.transition.enable-miner-u",
+      "type": "java.lang.Boolean",
+      "description": "是否启用 MinerU",
+      "sourceType": "org.ruoyi.config.properties.PdfProperties$TransitionConfig",
+      "defaultValue": false
+    },
+    {
+      "name": "pdf.transition.enable-ocr",
+      "type": "java.lang.Boolean",
+      "description": "是否启用图片 OCR",
+      "sourceType": "org.ruoyi.config.properties.PdfProperties$TransitionConfig",
+      "defaultValue": false
+    }
+  ],
+  "hints": []
+}

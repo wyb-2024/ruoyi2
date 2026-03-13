@@ -1,0 +1,1 @@
+{"doc":"","fields":[{"name":"money","doc":" 商品金额\n"},{"name":"name","doc":" 商品名称\n"},{"name":"orderNo","doc":" 订单编号\n"},{"name":"payType","doc":" 支付方式\n"}],"enumConstants":[],"methods":[],"constructors":[]}

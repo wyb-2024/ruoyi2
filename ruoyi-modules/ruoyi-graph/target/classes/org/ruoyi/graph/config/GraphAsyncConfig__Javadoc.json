@@ -1,0 +1,1 @@
+{"doc":" 图谱构建异步任务配置\n\n @author ruoyi\n @date 2025-10-11\n","fields":[],"enumConstants":[],"methods":[{"name":"graphBuildExecutor","paramTypes":[],"doc":" 图谱构建专用线程池\n 用于执行图谱构建任务，避免阻塞主线程池\n"}],"constructors":[]}

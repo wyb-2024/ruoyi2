@@ -1,0 +1,1 @@
+{"doc":" 用户对象导入VO\n\n @author Lion Li\n","fields":[{"name":"userName","doc":" 用户名称\n"},{"name":"userBalance","doc":" 用户余额\n"},{"name":"userGrade","doc":" 用户等级\n"}],"enumConstants":[],"methods":[],"constructors":[]}

@@ -1,0 +1,1 @@
+{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"streamMcpResponse","paramTypes":["java.lang.String"],"doc":" SSE 流式响应端点\n"},{"name":"callMcpTool","paramTypes":["java.lang.String","java.util.Map"],"doc":" 调用 MCP 工具（流式）\n"}],"constructors":[]}

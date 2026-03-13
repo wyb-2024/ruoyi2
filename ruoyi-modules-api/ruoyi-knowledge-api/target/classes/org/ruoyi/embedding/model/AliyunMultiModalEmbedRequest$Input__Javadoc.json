@@ -1,0 +1,1 @@
+{"doc":" 表示输入数据的记录类(Record)\n 该类用于封装一个包含多个映射关系列表的输入数据结构\n\n @param contents 包含多个Map的列表，每个Map中存储String类型的键和Object类型的值\n","fields":[],"enumConstants":[],"methods":[],"constructors":[]}

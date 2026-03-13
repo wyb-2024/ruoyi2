@@ -1,0 +1,1 @@
+{"doc":" @author <a href=\"https://github.com/binarywang\">Binary Wang</a>\n","fields":[],"enumConstants":[],"methods":[{"name":"handleSpecial","paramTypes":["me.chanjar.weixin.cp.bean.message.WxCpXmlMessage"],"doc":" 处理特殊请求，比如如果是扫码进来的，可以做相应处理\n"}],"constructors":[]}

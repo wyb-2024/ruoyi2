@@ -1,0 +1,1 @@
+{"doc":" 用户阅读状态Mapper接口\n\n @author Lion Li\n @date 2024-05-11\n","fields":[],"enumConstants":[],"methods":[{"name":"readAllNotice","paramTypes":[],"doc":" 阅读所有公告\n"}],"constructors":[]}

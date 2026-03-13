@@ -1,0 +1,1 @@
+{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"handleScanLogin","paramTypes":["org.ruoyi.domin.ReceiveMessage"],"doc":" 处理扫码登录\n\n @param receiveMessage\n @return\n"}],"constructors":[]}

@@ -1,0 +1,1 @@
+{"doc":" sse工具类\n\n @author WangLe\n","fields":[],"enumConstants":[],"methods":[{"name":"sendErrorEvent","paramTypes":["org.springframework.web.servlet.mvc.method.annotation.ResponseBodyEmitter","java.lang.String"],"doc":" 发送SSE错误事件的封装方法\n\n @param sseEmitter   sse事件对象\n @param errorMessage 错误信息\n"}],"constructors":[]}

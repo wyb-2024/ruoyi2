@@ -1,0 +1,1 @@
+{"doc":" 全局邮件帐户，依赖于邮件配置文件{@link MailAccount#MAIL_SETTING_PATHS}\n\n @author looly\n","fields":[],"enumConstants":[],"methods":[{"name":"getAccount","paramTypes":[],"doc":" 获得邮件帐户\n\n @return 邮件帐户\n"},{"name":"createDefaultAccount","paramTypes":[],"doc":" 创建默认帐户\n\n @return MailAccount\n"}],"constructors":[{"name":"<init>","paramTypes":[],"doc":" 构造\n"}]}

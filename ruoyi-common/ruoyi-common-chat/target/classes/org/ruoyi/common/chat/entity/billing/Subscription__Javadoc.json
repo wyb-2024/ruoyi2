@@ -1,0 +1,1 @@
+{"doc":" 账户信息\n\n @author https:www.unfbx.com\n @since 2023-04-08\n","fields":[{"name":"hasPaymentMethod","doc":" 付款方式\n"},{"name":"plan","doc":" 计划\n"},{"name":"accountName","doc":" 账户名称\n"},{"name":"billingEmail","doc":" 账单邮箱\n"}],"enumConstants":[],"methods":[],"constructors":[]}

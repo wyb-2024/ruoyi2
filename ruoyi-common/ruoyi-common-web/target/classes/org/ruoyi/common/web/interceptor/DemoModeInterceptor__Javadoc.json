@@ -1,0 +1,1 @@
+{"doc":" 演示模式拦截器\n 全局拦截所有编辑操作（POST、PUT、DELETE、PATCH）\n\n @author ruoyi\n","fields":[],"enumConstants":[],"methods":[{"name":"isEditOperation","paramTypes":["java.lang.String"],"doc":" 判断是否为编辑操作\n"},{"name":"isExcludedPath","paramTypes":["java.lang.String"],"doc":" 判断是否为排除的路径（这些路径即使是POST等方法也不拦截）\n"}],"constructors":[]}

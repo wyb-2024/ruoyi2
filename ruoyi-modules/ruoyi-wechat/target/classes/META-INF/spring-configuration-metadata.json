@@ -1,0 +1,23 @@
+{
+  "groups": [
+    {
+      "name": "wechat.cp",
+      "type": "org.ruoyi.config.WxCpProperties",
+      "sourceType": "org.ruoyi.config.WxCpProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "wechat.cp.app-configs",
+      "type": "java.util.List<org.ruoyi.config.WxCpProperties$AppConfig>",
+      "sourceType": "org.ruoyi.config.WxCpProperties"
+    },
+    {
+      "name": "wechat.cp.corp-id",
+      "type": "java.lang.String",
+      "description": "设置企业微信的corpId",
+      "sourceType": "org.ruoyi.config.WxCpProperties"
+    }
+  ],
+  "hints": []
+}

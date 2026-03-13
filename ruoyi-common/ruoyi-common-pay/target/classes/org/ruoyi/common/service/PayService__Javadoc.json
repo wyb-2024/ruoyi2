@@ -1,0 +1,1 @@
+{"doc":" 支付服务\n\n @author: wangle\n @date: 2023/7/3\n","fields":[],"enumConstants":[],"methods":[{"name":"getPayUrl","paramTypes":["java.lang.String","java.lang.String","double","java.lang.String"],"doc":" 获取支付地址\n\n @param orderNo\n @param name\n @param money\n @param clientIp\n @return String\n @Date 2023/7/3\n"}],"constructors":[]}

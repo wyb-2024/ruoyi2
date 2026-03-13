@@ -1,0 +1,1 @@
+{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"createStartNode","paramTypes":["org.ruoyi.workflow.entity.Workflow"],"doc":" user_inputs:\n [\n {\n \"uuid\": \"12bc919774aa4e779d97e3dd9c836e11\",\n \"name\": \"var_user_input\",\n \"title\": \"用户输入\",\n \"type\": 1,\n \"required\": true,\n \"max_length\": 1000\n }\n ]\n\n @param workflow 工作流定义\n"}],"constructors":[]}

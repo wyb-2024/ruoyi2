@@ -1,0 +1,1 @@
+{"doc":" 工作流节点实例状态 | workflow node instance state\n","fields":[],"enumConstants":[],"methods":[],"constructors":[{"name":"<init>","paramTypes":["java.util.Map"],"doc":" Constructs an AgentState with the given initial data.\n\n @param initData the initial data for the agent state\n"}]}

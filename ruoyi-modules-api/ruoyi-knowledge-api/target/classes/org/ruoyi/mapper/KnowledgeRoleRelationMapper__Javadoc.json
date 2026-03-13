@@ -1,0 +1,1 @@
+{"doc":" 知识库角色与知识库关联Mapper接口\n\n @author ageerle\n @date 2025-07-19\n","fields":[],"enumConstants":[],"methods":[{"name":"deleteByRoleId","paramTypes":["java.lang.Long"],"doc":" 根据 roleId 删除所有关联\n"}],"constructors":[]}

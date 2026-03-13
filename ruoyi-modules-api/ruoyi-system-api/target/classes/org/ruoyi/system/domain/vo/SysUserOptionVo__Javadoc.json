@@ -1,0 +1,1 @@
+{"doc":" 用户信息视图对象 sys_user\n\n @author Michelle.Chung\n","fields":[{"name":"userId","doc":" 用户ID\n"},{"name":"name","doc":" 用户账号\n"}],"enumConstants":[],"methods":[],"constructors":[]}

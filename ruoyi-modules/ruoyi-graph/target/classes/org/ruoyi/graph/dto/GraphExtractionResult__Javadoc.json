@@ -1,0 +1,1 @@
+{"doc":" 图谱抽取结果\n\n @author ruoyi\n @date 2025-09-30\n","fields":[{"name":"entities","doc":" 抽取的实体列表\n"},{"name":"relations","doc":" 抽取的关系列表\n"},{"name":"rawResponse","doc":" 原始LLM响应\n"},{"name":"tokenUsed","doc":" 消耗的token数\n"},{"name":"success","doc":" 是否成功\n"},{"name":"errorMessage","doc":" 错误信息\n"}],"enumConstants":[],"methods":[],"constructors":[]}

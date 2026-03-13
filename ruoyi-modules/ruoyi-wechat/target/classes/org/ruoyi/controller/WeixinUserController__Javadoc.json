@@ -1,0 +1,1 @@
+{"doc":" 微信公众号登录\n\n @author ageerle\n @date 2025-05-03\n","fields":[],"enumConstants":[],"methods":[{"name":"userLogin","paramTypes":["java.lang.String"],"doc":" 校验是否扫描完成\n 完成，返回 JWT\n 未完成，返回 check failed\n"}],"constructors":[]}

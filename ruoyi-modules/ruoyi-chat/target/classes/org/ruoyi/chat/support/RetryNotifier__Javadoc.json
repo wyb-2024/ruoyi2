@@ -1,0 +1,1 @@
+{"doc":" 失败回调通知器：基于发射器实例（SseEmitter 等对象地址）绑定回调，\n 避免与业务标识绑定，且能跨线程正确关联。\n","fields":[],"enumConstants":[],"methods":[],"constructors":[]}

@@ -1,0 +1,1 @@
+{"doc":" @author https:www.unfbx.com\n @since 2023-03-18\n","fields":[{"name":"grantAmount","doc":" 赠送金额：美元\n"},{"name":"usedAmount","doc":" 使用金额：美元\n"},{"name":"effectiveAt","doc":" 生效时间戳\n"},{"name":"expiresAt","doc":" 过期时间戳\n"}],"enumConstants":[],"methods":[],"constructors":[]}

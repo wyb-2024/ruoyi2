@@ -1,0 +1,1 @@
+{"doc":" 金额消耗信息\n\n @author https:www.unfbx.com\n @since 2023-04-08\n","fields":[{"name":"dailyCosts","doc":" 账号金额消耗明细\n"},{"name":"totalUsage","doc":" 总使用金额：美分\n"}],"enumConstants":[],"methods":[],"constructors":[]}

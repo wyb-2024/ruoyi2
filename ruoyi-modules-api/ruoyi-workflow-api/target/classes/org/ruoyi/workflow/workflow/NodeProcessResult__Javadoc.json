@@ -1,0 +1,1 @@
+{"doc":"","fields":[{"name":"nextNodeUuid","doc":" 条件执行时使用\n"},{"name":"error","doc":" 是否发生错误\n"},{"name":"message","doc":" 错误或提示信息\n"}],"enumConstants":[],"methods":[],"constructors":[]}

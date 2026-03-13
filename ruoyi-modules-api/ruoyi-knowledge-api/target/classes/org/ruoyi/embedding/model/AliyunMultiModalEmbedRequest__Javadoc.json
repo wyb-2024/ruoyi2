@@ -1,0 +1,1 @@
+{"doc":" @Author: Robust_H\n @Date: 2025-10-1-上午10:00\n @Description: 阿里云多模态嵌入请求\n","fields":[],"enumConstants":[],"methods":[{"name":"create","paramTypes":["java.lang.String","java.util.List"],"doc":" 创建请求对象\n"},{"name":"toJson","paramTypes":[],"doc":" 转换为JSON字符串\n"}],"constructors":[]}

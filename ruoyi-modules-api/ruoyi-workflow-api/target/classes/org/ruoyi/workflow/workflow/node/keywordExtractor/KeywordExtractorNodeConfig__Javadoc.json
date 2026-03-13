@@ -1,0 +1,1 @@
+{"doc":" 关键词提取节点配置\n","fields":[{"name":"category","doc":" 模型分类（如：llm, embedding 等）\n"},{"name":"modelName","doc":" 模型名称\n"},{"name":"topN","doc":" 提取的关键词数量\n"},{"name":"prompt","doc":" 提示词（可选）\n 用于指导关键词提取的额外说明\n"}],"enumConstants":[],"methods":[],"constructors":[]}

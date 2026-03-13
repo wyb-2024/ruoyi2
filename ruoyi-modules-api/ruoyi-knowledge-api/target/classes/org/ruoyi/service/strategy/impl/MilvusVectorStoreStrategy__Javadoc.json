@@ -1,0 +1,1 @@
+{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"getMilvusStore","paramTypes":["java.lang.String","int","boolean"],"doc":" 获取 Milvus Store，支持动态维度\n"},{"name":"getModelDimension","paramTypes":["java.lang.String"],"doc":" 获取 embedding 模型的实际维度\n"}],"constructors":[]}

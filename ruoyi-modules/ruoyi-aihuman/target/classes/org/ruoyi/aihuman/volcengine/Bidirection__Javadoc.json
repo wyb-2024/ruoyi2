@@ -1,0 +1,1 @@
+{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"voiceToResourceId","paramTypes":["java.lang.String"],"doc":" Get resource ID based on voice type\n\n @param voice Voice type string\n @return Corresponding resource ID\n"}],"constructors":[]}

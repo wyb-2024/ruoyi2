@@ -1,0 +1,1 @@
+{"doc":" 知识片段对象 knowledge_fragment\n\n @author ageerle\n @date 2025-04-08\n","fields":[{"name":"kid","doc":" 知识库ID\n"},{"name":"docId","doc":" 文档ID\n"},{"name":"fid","doc":" 知识片段ID\n"},{"name":"idx","doc":" 片段索引下标\n"},{"name":"content","doc":" 文档内容\n"},{"name":"remark","doc":" 备注\n"}],"enumConstants":[],"methods":[],"constructors":[]}

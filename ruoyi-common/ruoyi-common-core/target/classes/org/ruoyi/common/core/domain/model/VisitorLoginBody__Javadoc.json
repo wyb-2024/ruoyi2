@@ -1,0 +1,1 @@
+{"doc":" 游客登录用户身份权限\n\n @author Lion Li\n","fields":[{"name":"type","doc":" 登录类型(1.小程序访客 2.pc访客)\n"}],"enumConstants":[],"methods":[],"constructors":[]}

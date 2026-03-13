@@ -1,0 +1,1 @@
+{"doc":" 用户名密码验证器\n\n @author looly\n @since 3.1.2\n","fields":[],"enumConstants":[],"methods":[],"constructors":[{"name":"<init>","paramTypes":["java.lang.String","java.lang.String"],"doc":" 构造\n\n @param user 用户名\n @param pass 密码\n"}]}

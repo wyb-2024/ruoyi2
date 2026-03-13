@@ -1,0 +1,1 @@
+{"doc":" 生成歌词\n\n @author ageerle@163.com\n date 2024/6/27\n","fields":[{"name":"prompt","doc":" 歌词提示词\n"},{"name":"notify_hook","doc":" 回调地址\n"}],"enumConstants":[],"methods":[],"constructors":[]}

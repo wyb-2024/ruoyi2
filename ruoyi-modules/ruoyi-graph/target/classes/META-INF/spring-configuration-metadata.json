@@ -1,0 +1,180 @@
+{
+  "groups": [
+    {
+      "name": "knowledge.graph",
+      "type": "org.ruoyi.graph.config.GraphProperties",
+      "sourceType": "org.ruoyi.graph.config.GraphProperties"
+    },
+    {
+      "name": "knowledge.graph.extraction",
+      "type": "org.ruoyi.graph.config.GraphProperties$ExtractionConfig",
+      "sourceType": "org.ruoyi.graph.config.GraphProperties",
+      "sourceMethod": "getExtraction()"
+    },
+    {
+      "name": "knowledge.graph.query",
+      "type": "org.ruoyi.graph.config.GraphProperties$QueryConfig",
+      "sourceType": "org.ruoyi.graph.config.GraphProperties",
+      "sourceMethod": "getQuery()"
+    },
+    {
+      "name": "neo4j",
+      "type": "org.ruoyi.graph.config.Neo4jConfig",
+      "sourceType": "org.ruoyi.graph.config.Neo4jConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "knowledge.graph.auto-create-index",
+      "type": "java.lang.Boolean",
+      "description": "是否自动创建索引",
+      "sourceType": "org.ruoyi.graph.config.GraphProperties",
+      "defaultValue": true
+    },
+    {
+      "name": "knowledge.graph.batch-size",
+      "type": "java.lang.Integer",
+      "description": "批量处理大小",
+      "sourceType": "org.ruoyi.graph.config.GraphProperties",
+      "defaultValue": 1000
+    },
+    {
+      "name": "knowledge.graph.database-type",
+      "type": "java.lang.String",
+      "description": "图数据库类型: neo4j 或 apache-age",
+      "sourceType": "org.ruoyi.graph.config.GraphProperties",
+      "defaultValue": "neo4j"
+    },
+    {
+      "name": "knowledge.graph.enabled",
+      "type": "java.lang.Boolean",
+      "description": "是否启用知识图谱功能",
+      "sourceType": "org.ruoyi.graph.config.GraphProperties",
+      "defaultValue": true
+    },
+    {
+      "name": "knowledge.graph.extraction.chunk-overlap",
+      "type": "java.lang.Integer",
+      "description": "分片重叠大小",
+      "sourceType": "org.ruoyi.graph.config.GraphProperties$ExtractionConfig",
+      "defaultValue": 200
+    },
+    {
+      "name": "knowledge.graph.extraction.chunk-size",
+      "type": "java.lang.Integer",
+      "description": "文本分片大小（用于长文档）",
+      "sourceType": "org.ruoyi.graph.config.GraphProperties$ExtractionConfig",
+      "defaultValue": 2000
+    },
+    {
+      "name": "knowledge.graph.extraction.confidence-threshold",
+      "type": "java.lang.Double",
+      "description": "置信度阈值（低于此值的实体将被过滤）",
+      "sourceType": "org.ruoyi.graph.config.GraphProperties$ExtractionConfig",
+      "defaultValue": 0.7
+    },
+    {
+      "name": "knowledge.graph.extraction.max-entities-per-doc",
+      "type": "java.lang.Integer",
+      "description": "最大实体数量（每个文档）",
+      "sourceType": "org.ruoyi.graph.config.GraphProperties$ExtractionConfig",
+      "defaultValue": 100
+    },
+    {
+      "name": "knowledge.graph.extraction.max-relations-per-doc",
+      "type": "java.lang.Integer",
+      "description": "最大关系数量（每个文档）",
+      "sourceType": "org.ruoyi.graph.config.GraphProperties$ExtractionConfig",
+      "defaultValue": 200
+    },
+    {
+      "name": "knowledge.graph.max-retry-count",
+      "type": "java.lang.Integer",
+      "description": "最大重试次数",
+      "sourceType": "org.ruoyi.graph.config.GraphProperties",
+      "defaultValue": 3
+    },
+    {
+      "name": "knowledge.graph.query.cache-enabled",
+      "type": "java.lang.Boolean",
+      "description": "是否启用查询缓存",
+      "sourceType": "org.ruoyi.graph.config.GraphProperties$QueryConfig",
+      "defaultValue": true
+    },
+    {
+      "name": "knowledge.graph.query.cache-expire-minutes",
+      "type": "java.lang.Integer",
+      "description": "缓存过期时间（分钟）",
+      "sourceType": "org.ruoyi.graph.config.GraphProperties$QueryConfig",
+      "defaultValue": 60
+    },
+    {
+      "name": "knowledge.graph.query.default-limit",
+      "type": "java.lang.Integer",
+      "description": "默认查询限制数量",
+      "sourceType": "org.ruoyi.graph.config.GraphProperties$QueryConfig",
+      "defaultValue": 100
+    },
+    {
+      "name": "knowledge.graph.query.max-limit",
+      "type": "java.lang.Integer",
+      "description": "最大查询限制数量",
+      "sourceType": "org.ruoyi.graph.config.GraphProperties$QueryConfig",
+      "defaultValue": 1000
+    },
+    {
+      "name": "knowledge.graph.query.max-path-depth",
+      "type": "java.lang.Integer",
+      "description": "路径查询最大深度",
+      "sourceType": "org.ruoyi.graph.config.GraphProperties$QueryConfig",
+      "defaultValue": 5
+    },
+    {
+      "name": "knowledge.graph.query.timeout-seconds",
+      "type": "java.lang.Integer",
+      "description": "查询超时时间（秒）",
+      "sourceType": "org.ruoyi.graph.config.GraphProperties$QueryConfig",
+      "defaultValue": 30
+    },
+    {
+      "name": "neo4j.connection-timeout-seconds",
+      "type": "java.lang.Integer",
+      "description": "连接超时时间（秒）",
+      "sourceType": "org.ruoyi.graph.config.Neo4jConfig",
+      "defaultValue": 30
+    },
+    {
+      "name": "neo4j.database",
+      "type": "java.lang.String",
+      "description": "数据库名称（Neo4j 4.0+支持多数据库） 默认: neo4j",
+      "sourceType": "org.ruoyi.graph.config.Neo4jConfig",
+      "defaultValue": "neo4j"
+    },
+    {
+      "name": "neo4j.max-connection-pool-size",
+      "type": "java.lang.Integer",
+      "description": "最大连接池大小",
+      "sourceType": "org.ruoyi.graph.config.Neo4jConfig",
+      "defaultValue": 50
+    },
+    {
+      "name": "neo4j.password",
+      "type": "java.lang.String",
+      "description": "密码",
+      "sourceType": "org.ruoyi.graph.config.Neo4jConfig"
+    },
+    {
+      "name": "neo4j.uri",
+      "type": "java.lang.String",
+      "description": "Neo4j连接URI 例如: bolt:\/\/localhost:7687",
+      "sourceType": "org.ruoyi.graph.config.Neo4jConfig"
+    },
+    {
+      "name": "neo4j.username",
+      "type": "java.lang.String",
+      "description": "用户名",
+      "sourceType": "org.ruoyi.graph.config.Neo4jConfig"
+    }
+  ],
+  "hints": []
+}

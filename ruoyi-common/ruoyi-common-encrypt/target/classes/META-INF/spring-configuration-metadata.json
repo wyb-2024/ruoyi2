@@ -1,0 +1,48 @@
+{
+  "groups": [
+    {
+      "name": "mybatis-encryptor",
+      "type": "org.ruoyi.common.encrypt.properties.EncryptorProperties",
+      "sourceType": "org.ruoyi.common.encrypt.properties.EncryptorProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "mybatis-encryptor.algorithm",
+      "type": "org.ruoyi.common.encrypt.enumd.AlgorithmType",
+      "description": "默认算法",
+      "sourceType": "org.ruoyi.common.encrypt.properties.EncryptorProperties"
+    },
+    {
+      "name": "mybatis-encryptor.enable",
+      "type": "java.lang.Boolean",
+      "description": "过滤开关",
+      "sourceType": "org.ruoyi.common.encrypt.properties.EncryptorProperties"
+    },
+    {
+      "name": "mybatis-encryptor.encode",
+      "type": "org.ruoyi.common.encrypt.enumd.EncodeType",
+      "description": "编码方式，base64\/hex",
+      "sourceType": "org.ruoyi.common.encrypt.properties.EncryptorProperties"
+    },
+    {
+      "name": "mybatis-encryptor.password",
+      "type": "java.lang.String",
+      "description": "安全秘钥",
+      "sourceType": "org.ruoyi.common.encrypt.properties.EncryptorProperties"
+    },
+    {
+      "name": "mybatis-encryptor.private-key",
+      "type": "java.lang.String",
+      "description": "私钥",
+      "sourceType": "org.ruoyi.common.encrypt.properties.EncryptorProperties"
+    },
+    {
+      "name": "mybatis-encryptor.public-key",
+      "type": "java.lang.String",
+      "description": "公钥",
+      "sourceType": "org.ruoyi.common.encrypt.properties.EncryptorProperties"
+    }
+  ],
+  "hints": []
+}

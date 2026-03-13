@@ -1,0 +1,1 @@
+{"doc":"","fields":[{"name":"voice","doc":" 音频声音源\n\n @see TtsVoice\n"},{"name":"input","doc":" 输入内容\n"},{"name":"responseFormat","doc":" 输出音频文件格式\n\n @see TtsFormat\n"},{"name":"speed","doc":" 速度调节，默认是1，取值范围0.25——4.0\n"}],"enumConstants":[],"methods":[],"constructors":[]}

@@ -1,0 +1,1 @@
+{"doc":" DeepSeek 图谱LLM服务实现\n 支持 DeepSeek 系列模型\n <p>\n 注意：使用 langchain4j 的 OpenAiStreamingChatModel，通过 CompletableFuture 转换为同步调用\n 参考 DeepSeekChatImpl 的实现，但改为同步模式\n\n @author ruoyi\n @date 2025-10-13\n","fields":[],"enumConstants":[],"methods":[],"constructors":[]}

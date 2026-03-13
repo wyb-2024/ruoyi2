@@ -1,0 +1,1 @@
+{"doc":"","fields":[{"name":"enableMinerU","doc":" 是否启用 MinerU\n"},{"name":"condaEnvPath","doc":" MinerU Conda 环境路径\n"},{"name":"enableOcr","doc":" 是否启用图片 OCR\n"}],"enumConstants":[],"methods":[],"constructors":[]}

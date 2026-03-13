@@ -1,0 +1,1 @@
+{"doc":" 配置信息业务对象 chat_config\n\n @author ageerle\n @date 2025-04-08\n","fields":[{"name":"id","doc":" 主键\n"},{"name":"category","doc":" 配置类型\n"},{"name":"configName","doc":" 配置名称\n"},{"name":"configValue","doc":" 配置值\n"},{"name":"configDict","doc":" 说明\n"},{"name":"remark","doc":" 备注\n"},{"name":"updateIp","doc":" 更新IP\n"}],"enumConstants":[],"methods":[],"constructors":[]}

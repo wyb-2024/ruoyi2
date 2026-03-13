@@ -1,0 +1,123 @@
+{
+  "groups": [
+    {
+      "name": "ruoyi",
+      "type": "org.ruoyi.common.core.config.RuoYiConfig",
+      "sourceType": "org.ruoyi.common.core.config.RuoYiConfig"
+    },
+    {
+      "name": "thread-pool",
+      "type": "org.ruoyi.common.core.config.properties.ThreadPoolProperties",
+      "sourceType": "org.ruoyi.common.core.config.properties.ThreadPoolProperties"
+    },
+    {
+      "name": "vector-store",
+      "type": "org.ruoyi.common.core.config.VectorStoreProperties",
+      "sourceType": "org.ruoyi.common.core.config.VectorStoreProperties"
+    },
+    {
+      "name": "vector-store.milvus",
+      "type": "org.ruoyi.common.core.config.VectorStoreProperties$Milvus",
+      "sourceType": "org.ruoyi.common.core.config.VectorStoreProperties",
+      "sourceMethod": "getMilvus()"
+    },
+    {
+      "name": "vector-store.weaviate",
+      "type": "org.ruoyi.common.core.config.VectorStoreProperties$Weaviate",
+      "sourceType": "org.ruoyi.common.core.config.VectorStoreProperties",
+      "sourceMethod": "getWeaviate()"
+    }
+  ],
+  "properties": [
+    {
+      "name": "ruoyi.address-enabled",
+      "type": "java.lang.Boolean",
+      "description": "获取地址开关",
+      "sourceType": "org.ruoyi.common.core.config.RuoYiConfig",
+      "defaultValue": false
+    },
+    {
+      "name": "ruoyi.copyright-year",
+      "type": "java.lang.String",
+      "description": "版权年份",
+      "sourceType": "org.ruoyi.common.core.config.RuoYiConfig"
+    },
+    {
+      "name": "ruoyi.demo-enabled",
+      "type": "java.lang.Boolean",
+      "description": "实例演示开关",
+      "sourceType": "org.ruoyi.common.core.config.RuoYiConfig",
+      "defaultValue": false
+    },
+    {
+      "name": "ruoyi.name",
+      "type": "java.lang.String",
+      "description": "项目名称",
+      "sourceType": "org.ruoyi.common.core.config.RuoYiConfig"
+    },
+    {
+      "name": "ruoyi.version",
+      "type": "java.lang.String",
+      "description": "版本",
+      "sourceType": "org.ruoyi.common.core.config.RuoYiConfig"
+    },
+    {
+      "name": "thread-pool.enabled",
+      "type": "java.lang.Boolean",
+      "description": "是否开启线程池",
+      "sourceType": "org.ruoyi.common.core.config.properties.ThreadPoolProperties",
+      "defaultValue": false
+    },
+    {
+      "name": "thread-pool.keep-alive-seconds",
+      "type": "java.lang.Integer",
+      "description": "线程池维护线程所允许的空闲时间",
+      "sourceType": "org.ruoyi.common.core.config.properties.ThreadPoolProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "thread-pool.queue-capacity",
+      "type": "java.lang.Integer",
+      "description": "队列最大长度",
+      "sourceType": "org.ruoyi.common.core.config.properties.ThreadPoolProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "vector-store.milvus.collectionname",
+      "type": "java.lang.String",
+      "description": "集合名称",
+      "sourceType": "org.ruoyi.common.core.config.VectorStoreProperties$Milvus"
+    },
+    {
+      "name": "vector-store.milvus.url",
+      "type": "java.lang.String",
+      "description": "连接URL",
+      "sourceType": "org.ruoyi.common.core.config.VectorStoreProperties$Milvus"
+    },
+    {
+      "name": "vector-store.type",
+      "type": "java.lang.String",
+      "description": "向量库类型",
+      "sourceType": "org.ruoyi.common.core.config.VectorStoreProperties"
+    },
+    {
+      "name": "vector-store.weaviate.classname",
+      "type": "java.lang.String",
+      "description": "类名",
+      "sourceType": "org.ruoyi.common.core.config.VectorStoreProperties$Weaviate"
+    },
+    {
+      "name": "vector-store.weaviate.host",
+      "type": "java.lang.String",
+      "description": "主机地址",
+      "sourceType": "org.ruoyi.common.core.config.VectorStoreProperties$Weaviate"
+    },
+    {
+      "name": "vector-store.weaviate.protocol",
+      "type": "java.lang.String",
+      "description": "协议",
+      "sourceType": "org.ruoyi.common.core.config.VectorStoreProperties$Weaviate"
+    }
+  ],
+  "hints": []
+}
